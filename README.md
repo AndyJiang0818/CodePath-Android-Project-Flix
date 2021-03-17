@@ -24,10 +24,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 <img src="https://media.giphy.com/media/6Ck3OqWNyQkM9eiZ9l/giphy.gif" width=250><br>
 
-### Notes
-
-It showed an error in the beginning, then I looked at hint 7, and added those code into the AndroidManifest.xml in order to make it run. 
-
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
@@ -52,9 +48,6 @@ It showed an error in the beginning, then I looked at hint 7, and added those co
 
 <img src="https://media.giphy.com/media/KC3aafMzczvjStFZAm/giphy.gif" width=250><br>
 <img src="https://media.giphy.com/media/vE9tG3dqG4dIhtuWWd/giphy.gif" width=500><br>
-
-### Notes
-I had to create a new emulator in order to make it run. 
 
 ### Open-source libraries used
 
